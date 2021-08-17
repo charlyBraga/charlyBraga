@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 </div>
 
 
- 
-   ##
+
  
 <div> 
 <a href="https://www.linkedin.com/in/charly-braga-ventura-b45224128/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -40,13 +39,6 @@ Here are some ideas to get you started:
   <!--<a href = "mailto:charlybraga@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>-->
 
 
- 
-
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
- 
  ##
   <div style="display: inline_block"><br>  
   <img align="center" alt="Charly-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -60,3 +52,9 @@ Here are some ideas to get you started:
   <img align="center" alt="Charly-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <!--<img align="right" alt="Charly-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">-->
 </div>
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+ 
+ 
