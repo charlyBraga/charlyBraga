@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Oiii! Eu sou o Charly Braga
+## Oi! Eu sou o Charly Braga
  <div>
   <a href="https://github.com/charlybraga">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=charlybraga&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
