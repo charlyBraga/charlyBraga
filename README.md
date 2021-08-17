@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 ## Hi! I'm Charly Braga 😄
-- 🤔 I’m looking for help with ...
+- 🌱 I’m currently learning Python, DataScience, Django, BI, PowerBI, Deep Leraning, Machine Learning ...
  <div>
   <a href="https://github.com/charlybraga">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=charlybraga&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
