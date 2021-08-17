@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **charlyBraga/charlyBraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
- 🌱 I’m currently learning Python, DataScience, Django, BI, PowerBI, Deep Leraning, Machine Learning ...
+- 🌱 I’m currently learning Python, DataScience, Django, BI, PowerBI, Deep Leraning, Machine Learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Oi! Eu sou o Charly Braga
+
+
+## Hi! I'm Charly Braga 😄
+- 🤔 I’m looking for help with ...
  <div>
   <a href="https://github.com/charlybraga">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=charlybraga&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
