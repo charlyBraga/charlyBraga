@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 
 
-## Hi! I'm Charly Braga 😄
-
- 
+## Hi! I'm Charly Braga 😄 
 
 - 🌱 I’m currently learning Python, DataScience, Django, BI, PowerBI, Deep Leraning, Machine Learning ...
 <div>
@@ -43,7 +41,7 @@ Here are some ideas to get you started:
   <!--<img align="right" alt="Charly-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">-->
 </div>
  
- ## Activities :nerd_face:
+ ## Activities ::computer:
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
   
@@ -55,10 +53,6 @@ Here are some ideas to get you started:
  <a href = "mailto:charlybraga@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href=" https://www.facebook.com/Informinas.online" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%230077B5?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
 </div>
-  <!--<a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>-->
- 	<!--<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>-->
- <!--<a href="https://discord.gg/G9GPg5SA75" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
-  <!--<a href = "mailto:charlybraga@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>-->
  
  ## Visits in my perfil :detective: <br>
  <p align="center"> 
