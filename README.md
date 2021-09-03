@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   <!--<img align="right" alt="Charly-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">-->
 </div>
  
- ## Activities ::computer:
+ ## Activities :computer:
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
   
