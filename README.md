@@ -60,7 +60,7 @@ Here are some ideas to get you started:
  <!--<a href="https://discord.gg/G9GPg5SA75" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
   <!--<a href = "mailto:charlybraga@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>-->
  
- ## Total de Visitas no perfil :detective: <br>
+ ## Visits in my perfil :detective: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/charlyBraga/count.svg" />
  </p>
