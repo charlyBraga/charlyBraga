@@ -31,13 +31,14 @@ Here are some ideas to get you started:
 <div style="display: inline_block"><br>  
   <ul>
   <li> <img align="center" alt="Charly-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> Python (TensorFlow, Keras, PyTorch, SciLearn, Pandas, NumPY, Matplotlib, Seaborn, PySpark, Django)</li>
-  
+  <li> <img align="center" alt="Charly-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> C++ </li>
+  <li> <img align="center" alt="Charly-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> C</li>
 
   </ul>
   
   <!-- <img align="center" alt="Charly-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
-  <img align="center" alt="Charly-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Charly-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  
+ 
   <img align="center" alt="Charly-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> -->
  
   <!--<img align="right" alt="Charly-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">-->
