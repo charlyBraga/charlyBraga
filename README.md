@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   <li> Análise exploratória de dados </li>
   <li> Metodologia ágil (scrum e kanban) </li>
   <li> C/C++ (algoritmos e estrutura de dados)  </li>
-  <li>  C</li>
+
 
   </ul>
   
