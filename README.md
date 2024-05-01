@@ -28,15 +28,15 @@ Here are some ideas to get you started:
  
 <div style="display: inline_block"><br>  
   <ul>
-  <li> Python (tensorflow, keras, pytorch, scikit-learn, pandas, numpy, matplotlib, seaborn, pyspark, django, flask)</li>
+  <li> Python (tensorflow, keras, pytorch, scikit-learn, pandas, numpy, matplotlib, seaborn, pyspark, django and flask)</li>
   <li> SQL </li>
   <li> Machine Learling (models supervisionados e não supervisionados, deep learning, visão computational, IA generativa, transformer, LLM) </li>
-  <li> Cálculo e estatística </li>
+  <li> Calculus and statistic </li>
   <li> BI (tableau e powerbi) </li>
-  <li> Planilhas (google sheet e ms excel)  </li>
-  <li> Análise exploratória de dados </li>
-  <li> Metodologia ágil (scrum e kanban) </li>
-  <li> C/C++ (algoritmos e estrutura de dados)  </li>
+  <li> Google sheet and MS excel)  </li>
+  <li> Exploratory data analysis </li>
+  <li> Agile (scrum and kanban) </li>
+  <li> C/C++ (algorithms and data structure)  </li> 
 
 
   </ul>
