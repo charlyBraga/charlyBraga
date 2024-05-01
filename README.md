@@ -21,8 +21,9 @@ I am a software engineer with a master's degree in computer science, specializin
 
 To explore some of my projects, please visit [my portfolio](https://github.com/charlyBraga/my-portfolio/blob/main/README.md).
 
+---
 ## Statistics on commits and most used languages by me on GitHub
-<div style="display: inline_block"><br> 
+<div> 
   <a href="https://github.com/charlybraga">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=charlybraga&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlybraga&layout=compact&langs_count=7&theme=dracula"/>
