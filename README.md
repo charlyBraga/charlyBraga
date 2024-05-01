@@ -3,8 +3,10 @@
 Hi, my name is Charly Braga and I am a software engineer with a master's degree in computer science, specializing in artificial intelligence. I am passionate about using technology to solve complex problems and enhance human capabilities. Currently, my research and studies are centered on Python, machine learning (including general AI), and data science.
 
 To explore some of my projects, please visit [my portfolio](https://github.com/charlyBraga/my-portfolio/blob/main/README.md).
-/
+
 \
+\
+
 ## Statistics on Commits and Most Used Languages on GitHub 
 
 <div style="display: inline-block">
