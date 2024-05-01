@@ -5,7 +5,8 @@ Hi, my name is Charly Braga and I am a software engineer with a master's degree 
 To explore some of my projects, please visit [my portfolio](https://github.com/charlyBraga/my-portfolio/blob/main/README.md).
 
 <br />
-
+<detail>
+<summarize>xxxxxx</sumarize>
 ## Statistics on commits 
 
 <div style="display: inline-block">
@@ -13,7 +14,7 @@ To explore some of my projects, please visit [my portfolio](https://github.com/c
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=charlybraga&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlybraga&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
+  </detail>
 <br />
  
 ## My hard skills 
