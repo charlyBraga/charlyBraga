@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ## Hi! I'm Charly Braga 😄 
 
-- 🌱 I’m currently studying Python, Machine learning (including gen AI), and Data Science.
+I am a software engineer with a master's degree in computer science, specializing in artificial intelligence. Currently, my research and studies are centered on python, machine learning (including gen AI), and data science.
 
- To explore some of my projects, please visit [my portfolio](https://github.com/charlyBraga/my-portfolio/blob/main/README.md).
+To explore some of my projects, please visit [my portfolio](https://github.com/charlyBraga/my-portfolio/blob/main/README.md).
 
 <div>
   <a href="https://github.com/charlybraga">
