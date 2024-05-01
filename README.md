@@ -4,6 +4,7 @@ Hi, my name is Charly Braga and I am a software engineer with a master's degree 
 
 To explore some of my projects, please visit [my portfolio](https://github.com/charlyBraga/my-portfolio/blob/main/README.md).
 /
+\
 ## Statistics on Commits and Most Used Languages on GitHub 
 
 <div style="display: inline-block">
