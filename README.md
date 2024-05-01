@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<details open>
-<summary><b>English (Click to Hide/Show)</b></summary>
-
 ## Hi! I'm Charly Braga 😄 
 
 - 🌱 I’m currently studying LLM, Data Science, Deep Learning, Machine Learning, BI ...
@@ -70,4 +67,3 @@ Here are some ideas to get you started:
  </p>
 
 
-</details>
