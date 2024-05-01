@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <ul>
   <li> Python (tensorflow, keras, pytorch, scikit-learn, pandas, numpy, matplotlib, seaborn, pyspark, django and flask)</li>
   <li> SQL </li>
-  <li> Machine Learling (models supervisionados e não supervisionados, deep learning, visão computational, IA generativa, transformer, LLM) </li>
+  <li> Machine learning (supervised and unsupervised models, deep learning, computer vision, gen AI, transformer, LLM) </li>
   <li> Calculus and statistic </li>
   <li> BI (tableau e powerbi) </li>
   <li> Google sheet and MS excel)  </li>
