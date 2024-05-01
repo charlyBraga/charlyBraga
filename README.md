@@ -19,7 +19,7 @@ To explore some of my projects, please visit [my portfolio](https://github.com/c
 ## My hard skills 
 
 <ul>
-  <li> <p><b>Python</b></p> : Tensorflow, Keras, PyTorch, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn, PySpark, Django, and Flask</li>
+  <li> <p><b>Python</b>: Tensorflow, Keras, PyTorch, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn, PySpark, Django, and Flask</p></li>
   <li> **SQL**</li>
   <li> **Machine Learning**: Supervised and unsupervised models, deep learning, computer vision, generative AI, transformers, large language models (LLM)</li>
   <li> **Mathematics**: Calculus and statistics</li>
