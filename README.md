@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently studying Python, Machine learning (including gen AI), and Data Science.
 
-  For view some my projects, click on [my portfolio](https://github.com/charlyBraga/my-portfolio/blob/main/README.md).
+ To explore some of my projects, please visit [my portfolio](https://github.com/charlyBraga/my-portfolio/blob/main/README.md).
 
 <div>
   <a href="https://github.com/charlybraga">
