@@ -19,15 +19,15 @@ To explore some of my projects, please visit [my portfolio](https://github.com/c
 ## My hard skills 
 
 <ul>
-  <li> <p><b>Python</b>: Tensorflow, Keras, PyTorch, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn, PySpark, Django, and Flask</p></li>
-  <li> **SQL**</li>
-  <li> **Machine Learning**: Supervised and unsupervised models, deep learning, computer vision, generative AI, transformers, large language models (LLM)</li>
-  <li> **Mathematics**: Calculus and statistics</li>
-  <li> **Data Analysis Tools**: Google Sheets and MS Excel</li>
-  <li> **Exploratory Data Analysis**</li>
-  <li> **Business Intelligence**: Tableau and PowerBI</li>
-  <li> **Agile Methodologies**: Scrum and Kanban</li>
-  <li> **Programming**: C/C++ (Algorithms and Data Structures)</li>
+  <li> <b>Python</b>: Tensorflow, Keras, PyTorch, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn, PySpark, Django, and Flask</p></li>
+  <li> <b>SQL</b></li>
+  <li> <b>Machine Learning</b>: Supervised and unsupervised models, deep learning, computer vision, generative AI, transformers, large language models (LLM)</li>
+  <li> <b>Mathematics</b>: Calculus and statistics</li>
+  <li> <b>Data Analysis Tools</b>: Google Sheets and MS Excel</li>
+  <li> <b>Exploratory Data Analysis</b></li>
+  <li> <b>Business Intelligence</b>: Tableau and PowerBI</li>
+  <li> <b>Agile Methodologies</b>: Scrum and Kanban</li>
+  <li> <b>Programming</b>: C/C++ (Algorithms and Data Structures)</li>
 </ul>
 
 <br />
