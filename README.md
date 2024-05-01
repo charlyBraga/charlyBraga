@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<details open>
+<summary><b>English (Click to Hide/Show)</b></summary>
 
 ## Hi! I'm Charly Braga 😄 
 
@@ -68,3 +69,5 @@ Here are some ideas to get you started:
    <img alingn="center" src="https://profile-counter.glitch.me/charlyBraga/count.svg" />
  </p>
 
+
+</details>
