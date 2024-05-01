@@ -6,7 +6,7 @@ To explore some of my projects, please visit [my portfolio](https://github.com/c
 
 <br />
 
-## Statistics on Commits and Most Used Languages on GitHub 
+## Statistics on commits 
 
 <div style="display: inline-block">
   <a href="https://github.com/charlybraga">
@@ -16,7 +16,7 @@ To explore some of my projects, please visit [my portfolio](https://github.com/c
 
 <br />
  
-## My Most Important Hard Skills 
+## My hard skills 
 
 <ul>
   <li> **Python**: Tensorflow, Keras, PyTorch, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn, PySpark, Django, and Flask</li>
@@ -32,7 +32,7 @@ To explore some of my projects, please visit [my portfolio](https://github.com/c
 
 <br />
 
-## My Contact and social network
+## My contact and social network
 
 <div> 
  <a href="https://www.linkedin.com/in/charly-braga-ventura-b45224128/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
