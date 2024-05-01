@@ -28,7 +28,7 @@ To explore some of my projects, please visit [my portfolio](https://github.com/c
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlybraga&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
- ## Hard Skills :nerd_face:
+ ## My most important hard skills:nerd_face:
  
 <div style="display: inline_block"><br>  
   <ul>
