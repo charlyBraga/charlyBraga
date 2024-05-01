@@ -64,7 +64,7 @@ To explore some of my projects, please visit [my portfolio](https://github.com/c
  <!--<a href = "mailto:charlybraga@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>-->
 </div>
  
- ## Visits in my perfil :detective: <br>
+ ## Visits to my profile :detective: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/charlyBraga/count.svg" />
  </p>
