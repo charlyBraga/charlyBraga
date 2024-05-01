@@ -36,9 +36,9 @@ To explore some of my projects, please visit [my portfolio](https://github.com/c
   <li> SQL </li>
   <li> Machine learning (supervised and unsupervised models, deep learning, computer vision, gen AI, transformer, LLM) </li>
   <li> Calculus and statistic </li>
+  <li> Google sheet and MS excel  </li>
+  <li> Exploratory data analysis </li>  
   <li> BI (tableau e powerbi) </li>
-  <li> Google sheet and MS excel)  </li>
-  <li> Exploratory data analysis </li>
   <li> Agile (scrum and kanban) </li>
   <li> C/C++ (algorithms and data structure)  </li> 
 
