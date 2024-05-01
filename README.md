@@ -1,6 +1,3 @@
-h2 {
-    border-bottom: none;
-}
 
 <!--
 **charlyBraga/charlyBraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,7 +31,7 @@ To explore some of my projects, please visit [my portfolio](https://github.com/c
  <div  border-bottom: none ><h2>My most important hard skills</h2></div>
 
  
-<div style="display: inline_block"><br>  
+<div>  
   <ul>
   <li> Python (tensorflow, keras, pytorch, scikit-learn, pandas, numpy, matplotlib, seaborn, pyspark, django and flask)</li>
   <li> SQL </li>
