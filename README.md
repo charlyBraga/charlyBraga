@@ -27,8 +27,7 @@ To explore some of my projects, please visit [my portfolio](https://github.com/c
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlybraga&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
- <div  border-bottom: none ><h2>My most important hard skills</h2></div>
-
+ ## My most important hard skills 🔧
  
 <div>  
   <ul>
