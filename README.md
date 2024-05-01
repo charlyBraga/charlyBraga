@@ -4,7 +4,6 @@ Hi, my name is Charly Braga and I am a software engineer with a master's degree 
 
 To explore some of my projects, please visit [my portfolio](https://github.com/charlyBraga/my-portfolio/blob/main/README.md).
 
-
 <br />
 
 ## Statistics on Commits and Most Used Languages on GitHub 
@@ -14,6 +13,8 @@ To explore some of my projects, please visit [my portfolio](https://github.com/c
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=charlybraga&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlybraga&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+<br />
  
 ## My Most Important Hard Skills 
 
@@ -29,12 +30,16 @@ To explore some of my projects, please visit [my portfolio](https://github.com/c
   <li> **Programming**: C/C++ (Algorithms and Data Structures)</li>
 </ul>
 
+<br />
+
 ## Contact 
 
 <div> 
  <a href="https://www.linkedin.com/in/charly-braga-ventura-b45224128/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://www.youtube.com/channel/UCbqeQ-cAJIOIcKNCE72VvuQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
+
+<br />
 
 ## Visits to My Profile 
 
